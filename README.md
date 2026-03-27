@@ -2,7 +2,7 @@
 
 A fully functional AI-powered portfolio assistant built from scratch and deployed
 on Vercel. Recruiters and hiring managers can ask any question about my background,
-skills, projects, and availability — and get instant, detailed answers powered by
+skills, projects, and availability, and get instant, detailed answers powered by
 Claude AI.
 
 Live at: https://ankitbharti-portfolio.vercel.app
