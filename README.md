@@ -41,7 +41,7 @@ responds in under 200ms.
 
 **3. Claude AI (Anthropic API)**
 The brain behind the responses. Model used: claude-sonnet-4-6. The system prompt
-includes my full background, 48+ interview Q&A answers, DAX code examples, Python
+includes my full background, and DAX code examples, Python
 scripts, SQL patterns, and behavioral stories. Claude generates fresh, natural
 responses to any question rather than doing keyword matching.
 
